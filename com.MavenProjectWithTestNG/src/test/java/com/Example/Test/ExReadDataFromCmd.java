@@ -10,6 +10,8 @@ public class ExReadDataFromCmd {
 		String PLACE = System.getProperty("place");
 		System.out.println("Name: "+NAME);
 		System.out.println("Place: "+PLACE);
+		System.out.println("hi");
+		
 	}
 
 }
