@@ -10,7 +10,6 @@ public class ExReadDataFromCmd {
 		String URL = System.getProperty("url");
 		System.out.println("browser: "+BROWSER);
 		System.out.println("url: "+URL);
-		System.out.println("hi");
 		
 	}
 
